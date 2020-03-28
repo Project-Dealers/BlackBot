@@ -1,2 +1,2 @@
 # BlackBot
-Telegram bot for checking users and organisations in the Finkarma blacklist
+Telegram bot for checking users and organisations in your own blacklists
